@@ -65,6 +65,15 @@ c.	Otra para enlazar los perfiles--%>
         <div id="profile">
         </div>
     </div>
+    
+
+    <%--Aqui hago referencia a App2.js para busqueda mediante AccountName de usuario
+    <div>
+     <input type="text" id="txtNom" /> 
+        <input type="button" id="btnBuscar"/>
+
+    </div>
+    <div id="res">--%>
 
 
 
