@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="22f90ae9-255a-471d-8c41-bd097866973c" 
+        solutionId="22f90ae9-255a-471d-8c41-bd097866973c" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="BuscadorUsuarios"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="a35f2be5-d440-41f4-a91c-249d0096b540" />
+  </features>
+</package>
